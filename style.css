@@ -1,0 +1,119 @@
+.backgroundsld1 {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.titulosld1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 34px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.titulo2sld1 {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 42px;
+    margin: 20px;
+    display: inline-block;
+    margin-top: 100px;
+}
+
+.linhasl1 {
+    color: white;
+    border-radius: 2px;
+}
+
+.butoesld1 {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+.butoesld1 button {
+    background-color: white;
+    border: none;
+    padding: 15px 20px;
+    margin-left: 10px;
+}
+
+.butoesld1 button a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.butoesld1 button:hover {
+    background-color: green;
+    transform: scale(1.3)
+}
+
+.subtitulo1-1sld1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 20px;
+    display: inline-block;
+
+}
+
+.subtitulo1-2sld1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    display: contents;
+    margin-left: -10px;
+}
+
+.subtitulo2-1sld1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.subtitulo2-2sld1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    display: contents;
+    margin-left: -10px;
+}
+
+.paragrafosld1 {
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 42px;
+    
+}
+
+circulosld1 {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: white;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin-right: 20px;
+}
+
+.textosld1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    justify-content: center;
+    line-height: 25px;
+    margin-left: 12px;
+    text-indent: 24px;
+}
+
+.titulosld2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 24px;
+}
+
+.listaVerde {
+    color: green;
+}
